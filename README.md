@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ying Cui
 
 ## About Me 👩🏻
-I'm a passionate data analyst with expertise in RStudio, MySQL, and Tableau. My goal is to derive meaningful insights from data to drive informed decision-making.
+I'm a passionate data analyst with expertise in R, MySQL, Excel, and Tableau. My goal is to derive meaningful insights from data to drive informed decision-making.
 
 ## 🔧 Skills
 - R
