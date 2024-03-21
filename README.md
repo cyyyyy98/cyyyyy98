@@ -34,7 +34,7 @@ I'm always looking to enhance my skills and currently exploring statistical anal
 
 ## 📊 Projects
 Here are some of the projects I've worked on:
-1. [Queensland Workforce]((https://public.tableau.com/app/profile/ying.cui7051/viz/Queenslandworkforce/Dashboard1))
+1. [Queensland Workforce](https://public.tableau.com/app/profile/ying.cui7051/viz/Queenslandworkforce/Dashboard1)
    - To get insights of the employment in Queensland.
    - Technologies used: R, Tableau.
 
