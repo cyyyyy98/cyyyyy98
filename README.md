@@ -34,13 +34,17 @@ I'm always looking to enhance my skills and currently exploring statistical anal
 
 ## 📊 Projects
 Here are some of the projects I've worked on:
-1. [Luxo Living Case Study](https://drive.google.com/file/d/1hpaZNMYVFm9ZTSGXuj-kKy9VyERf-pxn/view?usp=sharing)
-   - To figure out the explosive increase of business items during the pandemic.
-   - Technologies used: economics theory, business strategy.
+1. [Queensland Workforce]((https://public.tableau.com/app/profile/ying.cui7051/viz/Queenslandworkforce/Dashboard1))
+   - To get insights of the employment in Queensland.
+   - Technologies used: R, Tableau.
 
 2. [Superstore Analysis](https://public.tableau.com/app/profile/ying.cui7051/viz/SuperstoreAnalysis_17071117781700/Dashboard1)
    - To provide insights of category sales in the segment markets in the US from 2014 to 2017.
    - Technologies used: Tableau, Excel.
+
+3. [Luxo Living Case Study](https://drive.google.com/file/d/1hpaZNMYVFm9ZTSGXuj-kKy9VyERf-pxn/view?usp=sharing)
+   - To figure out the explosive increase of business items during the pandemic.
+   - Technologies used: economics theory, business strategy.
 
 ## 🤝 Let's Collaborate
 I'm open to collaboration and excited to work on new projects. If you have a project idea or need assistance, feel free to reach out.
