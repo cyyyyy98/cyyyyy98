@@ -1,33 +1,23 @@
 # Hi there! 👋 I'm Ying Cui
 
 ## About Me 👩🏻
-I'm a passionate data analyst with expertise in R, MySQL, Excel, and Tableau. My goal is to derive meaningful insights from data to drive informed decision-making.
+I'm a passionate data analyst with expertise in R, SQL, Excel, and Tableau. My goal is to derive meaningful insights from data to drive informed decision-making.
 
 ## 🔧 Skills
-- R
-- MySQL
-- Data cleaning and preparation
-- Transforming data
-- Retrieving and manipulating data
-- Critical thinking
-- Problem-solving
-- Attention to details
-- Time management
-- Continuous learning
-- Collaboration
+- Data ETL
+- Data retrieval and manipulation from a database
+- Data analysis, visualisation and reporting
+- Statistical modelling
+- Independent time and task managements
+
 
 ## 👩🏻‍💻 Software
-- RStudio
+- R
 - MySQL Workbench
+- Postgres
 - Tableau
-- Word
-- Excel
-- Powerpoint
-- Pages
-- Numbers
-- Keynote
-- Google Documents
-- Google Sheets
+- Microsoft Office Suite
+- WPS Office
 
 ## 🌱 Currently Learning
 I'm always looking to enhance my skills and currently exploring statistical analysis and data modelling.
@@ -59,11 +49,6 @@ I'm open to collaboration and excited to work on new projects. If you have a pro
 - LinkedIn: https://www.linkedin.com/in/ying-cui-662494290/
 - Email: ycui3104@gmail.com
 
-## 😄 Pronouns
-She/Her
-
-## ⚡ Fun Fact
-I'm into anime, music, and puzzles. Whether I'm exploring the latest anime releases, discovering new music genres, or challenging my mind with puzzles, you'll often find me immersed in these hobbies outside the world of data analysis.
 
 ---
 
